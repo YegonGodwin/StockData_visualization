@@ -1,0 +1,12 @@
+name: deployed
+title:
+username: stardustscripts
+account: stardustscripts
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13775493
+bundleId: 9698773
+url: https://stardustscripts.shinyapps.io/deployed/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
