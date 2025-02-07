@@ -76,7 +76,7 @@ ui <- fluidPage(
       card(
         plotOutput(outputId = "scatterplot"),
         tableOutput("title_type"),
-        HTML('Select a file to download then hit "Download hit".'),
+        HTML('Select a file to download, then hit "Download hit".'),
         downloadButton("download_data", "Download data", style = "width: 200px; border-radius: 9px; background-color: rgb(100, 100, 200); margin: 5px; color: #fff;")
       )
     )
